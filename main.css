@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+.container {
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	padding: 20px;
+	width: 480px;
+	font-family: monospace;
+	background-color: rebeccapurple;
+	font-size: 24px;
+	border: solid black 2px;
+}
+
+h1 {
+	color: rebeccapurple;
+	text-align: center;
+	text-decoration: underline;
+}
+
+.table {
+	background-color: silver;
+	width: 480px;
+	border: solid black 2px;
+}
